@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/309164022?s=200&v=4" alt="Anti7 logo" width="100"/>
-
-  # Anti7
 
   **Инженерно-технологическая команда**  
   Разработка, запуск и поддержка современных IT-решений
